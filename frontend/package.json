@@ -22,6 +22,9 @@
     "gantt",
     "kanban"
   ],
+  "resolutions": {
+    "rollup": "npm:@rollup/wasm-node"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
